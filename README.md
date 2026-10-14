@@ -5,14 +5,14 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia da Computação no ENIAC e com formação técnica em Informática. Busco constantemente expandir meus conhecimentos e contribuir com soluções inovadoras.
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-- 🌱 Aprendendo continuamente sobre desenvolvimento web e novas tecnologias
-- 🎯 Foco em desenvolvimento front-end e lógica de programação
-- 🌍 **Inglês Fluente** - Certificação Cambridge FCE
+- Aprendendo continuamente sobre desenvolvimento web e novas tecnologias
+- Foco em desenvolvimento front-end e lógica de programação
+- **Inglês Fluente** - Certificação Cambridge FCE
   
 
-## 💻 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ```javascript
 const caua = {
@@ -35,13 +35,13 @@ const caua = {
 
 
 
-## 🌟 Competências
+## Competências
 
-- ✨ Organização e atenção aos detalhes
-- 🚀 Proatividade e disposição para aprender
-- 🤝 Comunicação efetiva e trabalho em equipe
-- 💡 Resolução de problemas
-- 📊 Gestão de projetos e documentação
+- Organização e atenção aos detalhes
+- Proatividade e disposição para aprender
+- Comunicação efetiva e trabalho em equipe
+- Resolução de problemas
+- Gestão de projetos e documentação
 
 
 ## 🔗 Vamos Conectar?
@@ -51,6 +51,6 @@ const caua = {
 
 ---
 
-⭐️ **"Transformando ideias em código, um commit por vez!"**
+**"Transformando ideias em código, um commit por vez!"**
 
 
