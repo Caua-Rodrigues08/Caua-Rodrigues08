@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Cauã Rodrigues
 
 
-🎓 **Estudante de Engenharia da Computação** | 💻 **Desenvolvedor em Formação** | 🌍 **Guarulhos - SP**
+**Estudante de Engenharia da Computação** | **Desenvolvedor em Formação** | **Guarulhos - SP**
 
 Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia da Computação no ENIAC e com formação técnica em Informática. Busco constantemente expandir meus conhecimentos e contribuir com soluções inovadoras.
 
